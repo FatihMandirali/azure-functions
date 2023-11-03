@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azure.HttpFunctionApp", "Azure.HttpFunctionApp\Azure.HttpFunctionApp.csproj", "{A08AC794-F59E-4D0B-942D-BEB4F1CA149A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azure.TimerFunctionApp", "Azure.TimerFunctionApp\Azure.TimerFunctionApp.csproj", "{14075838-9681-40EA-A3A8-3DE28148529A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A08AC794-F59E-4D0B-942D-BEB4F1CA149A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A08AC794-F59E-4D0B-942D-BEB4F1CA149A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A08AC794-F59E-4D0B-942D-BEB4F1CA149A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A08AC794-F59E-4D0B-942D-BEB4F1CA149A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14075838-9681-40EA-A3A8-3DE28148529A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14075838-9681-40EA-A3A8-3DE28148529A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14075838-9681-40EA-A3A8-3DE28148529A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14075838-9681-40EA-A3A8-3DE28148529A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
